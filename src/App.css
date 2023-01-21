@@ -55,13 +55,13 @@
 }
 
 .stranger-things {
-  background-image: url('./assets/stranger-things.jpg');
-  background-position: left;
+  background-image: url('./assets/hawkins.jpg');
+  background-position: center;
 }
 
 .upside-down {
-  background-image: url('./assets/upside-down.jpg');
-  background-position: right;
+  background-image: url('./assets/upsidedown.jpg');
+  background-position: center;
 }
 
 .change-reality {
